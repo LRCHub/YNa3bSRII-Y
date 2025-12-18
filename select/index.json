@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "主題歌",
+  "base_artist": "Arakezuri",
+  "createdAt": "2025-12-18T09:53:55.792437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならの夏 ～コクリコ坂から～ (主題歌 別バージョン)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/01_さよならの夏_~コクリコ坂から~_(主題歌_別バージョン)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなただけが(NHKドラマ10「セカンドバージン」主題歌)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/02_あなただけが(NHKドラマ10「セカンドバージン」主題歌)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "20センチュリー・ボーイ (映画「20世紀少年」主題歌)",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/03_20センチュリー・ボーイ_(映画「20世紀少年」主題歌)_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光の川(TBS系全国ネット「こちら本池上署」主題歌)",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/04_光の川(TBS系全国ネット「こちら本池上署」主題歌)_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starlight (I vs I ver.)（フジテレビ系⽉9ドラマ「イチケイのカラス」主題歌）",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/05_Starlight_(I_vs_I_ver.)(フジテレビ系月9ドラマ「イチケイのカラス」主題歌)_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白鷺思一騁(大型紀錄片《紫禁城》主題歌)",
+      "artist": "Lexie Liu",
+      "has_synced": true,
+      "path": "select/06_白鷺思一騁(大型紀錄片《紫禁城》主題歌)_Lexie_Liu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天地龍鱗(大型紀錄片《紫禁城》主題歌)",
+      "artist": "王力宏",
+      "has_synced": true,
+      "path": "select/07_天地龍鱗(大型紀錄片《紫禁城》主題歌)_王力宏.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ALMIGHTY〜仮面の約束 - feat.川上洋平 『仮面ライダーセイバー』主題歌 TV size",
+      "artist": "Tokyo Ska Paradise Orchestra feat. Yoohei Kawakami",
+      "has_synced": true,
+      "path": "select/08_ALMIGHTY〜仮面の約束_-_feat.川上洋平_『仮面ライダーセイバー』主題歌_TV_size_Tokyo_Ska_Paradise_Orchestra_feat._Yoohei_Kawakami.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Promise - 『仮面ライダー ビヨンド・ジェネレーションズ』主題歌",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/09_Promise_-_『仮面ライダー_ビヨンド・ジェネレーションズ』主題歌_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "光亮(大型紀錄片《紫禁城》主題歌)",
+      "artist": "Zhou Shen",
+      "has_synced": true,
+      "path": "select/10_光亮(大型紀錄片《紫禁城》主題歌)_Zhou_Shen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いつも何度でも (主題歌)",
+      "artist": "木村弓",
+      "has_synced": true,
+      "path": "select/11_いつも何度でも_(主題歌)_木村弓.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "いつも何度でも (主題歌)",
+      "artist": "Kimura, Youmi",
+      "has_synced": true,
+      "path": "select/12_いつも何度でも_(主題歌)_Kimura,_Youmi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "字裡行間(大型紀錄片《紫禁城》主題歌)",
+      "artist": "Zhang Bichen",
+      "has_synced": true,
+      "path": "select/13_字裡行間(大型紀錄片《紫禁城》主題歌)_Zhang_Bichen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "liveDevil - 『仮面ライダーリバイス』主題歌",
+      "artist": "Da-iCE, 木村昴",
+      "has_synced": true,
+      "path": "select/14_liveDevil_-_『仮面ライダーリバイス』主題歌_Da-iCE,_木村昴.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Over “Quartzer”(『仮面ライダージオウ』主題歌)",
+      "artist": "Shuta Sueyoshi, ISSA",
+      "has_synced": true,
+      "path": "select/15_Over_“Quartzer”(『仮面ライダージオウ』主題歌)_Shuta_Sueyoshi,_ISSA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Trust・Last (『仮面ライダーギーツ』主題歌) - Trust・Last (Theme Song of KAMEN RIDER GEATS)",
+      "artist": "Kumi Koda × Shonan no Kaze",
+      "has_synced": true,
+      "path": "select/16_Trust・Last_(『仮面ライダーギーツ』主題歌)_-_Trust・Last_(Theme_Song_of_KAMEN_RIDER_GEATS)_Kumi_Koda_×_Shonan_no_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Frontier - 『ゼロワン Others 仮面ライダーバルカン&バルキリー』主題歌",
+      "artist": "Monkey Majik",
+      "has_synced": true,
+      "path": "select/17_Frontier_-_『ゼロワン_Others_仮面ライダーバルカン&バルキリー』主題歌_Monkey_Majik.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "主題歌",
+      "artist": "Arakezuri",
+      "has_synced": false,
+      "path": "select/pl_01_主題歌_Arakezuri.txt"
+    }
+  ]
+}
